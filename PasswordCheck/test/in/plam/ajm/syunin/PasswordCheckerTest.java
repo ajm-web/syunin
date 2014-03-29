@@ -1,9 +1,8 @@
-package in.plam.ajm.syunin.test;
+package in.plam.ajm.syunin;
 
-import in.plam.ajm.syunin.PasswordChecker;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 /**
  * Created by mpon on 2014/03/29.
