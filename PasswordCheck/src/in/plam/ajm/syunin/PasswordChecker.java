@@ -10,9 +10,12 @@ public class PasswordChecker {
     public Boolean check(String password) {
         if (password.length() < 10) return false;
 
-        String regex1 = "[0-9]+";
-        String regex2 = "[a-z]+";
-        String regex3 = "[A-Z]+";
+        String regex1 = ".*[0-9].*";
+
+
+        String regex2 = ".*[a-z].*";
+
+        String regex3 = ".*[A-Z].*";
 
         return password.matches(regex1) & password.matches(regex2) & password.matches(regex3);
 
