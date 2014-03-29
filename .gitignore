@@ -4,3 +4,12 @@
 *.jar
 *.war
 *.ear
+/PasswordCheck/nbproject/private/
+/PasswordCheck/build/
+/PasswordCheck/nbproject/project.xml
+/PasswordCheck/build.xml
+/PasswordCheck/nbproject/build-impl.xml
+/PasswordCheck/manifest.mf
+/PasswordCheck/nbproject/genfiles.properties
+/PasswordCheck/nbproject/project.properties
+/PasswordCheck/dist/
