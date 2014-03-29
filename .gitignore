@@ -4,6 +4,7 @@
 *.jar
 *.war
 *.ear
+<<<<<<< HEAD
 /PasswordCheck/nbproject/private/
 /PasswordCheck/build/
 /PasswordCheck/nbproject/project.xml
@@ -13,3 +14,7 @@
 /PasswordCheck/nbproject/genfiles.properties
 /PasswordCheck/nbproject/project.properties
 /PasswordCheck/dist/
+=======
+
+.idea
+>>>>>>> 5f7622efcc5832dfebc6c666af4da5897195d766
